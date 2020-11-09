@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '127.0.0.1';
-$db['default']['username'] = 'umasferrer';
-$db['default']['password'] = 'umasferrer2019+';
+$db['default']['hostname'] = 'localhost:3306';
+$db['default']['username'] = 'root';
+$db['default']['password'] = 'root';
 $db['default']['database'] = 'umasferrerdb';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
