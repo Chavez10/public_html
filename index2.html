@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>patria masferreriana</title>
+	 <script type="application/x-javascript">
+            function simpleCanvas() {
+ 
+                /* Recuperamos el canvas */
+                var canvas = document.getElementById("polygons");
+ 
+                if (canvas.getContext) { 
+                    /* Obtenemos el contexto plano (2d) */
+                    var ctx = canvas.getContext("2d");
+ 
+                    /* Establecemos el valor RGB del primer polígono */
+                    ctx.fillStyle = "rgb(41,155,243)";
+ 
+                    /* Con fillRect crearemos un rectangulo los numeros corresponden:  */
+                    /* los 2 primeros a las coordenadas y los otros tamaño (x,y,ancho,alto)  */
+
+                    ctx.fillRect (10, 10, 180, 180);
+
+                /* Damos color igual que en el anterios pero esta vez */ 
+                    /*"rgba" añadiendo un numero más */ 
+                    /*que en este caso serrá la transparencia */
+ 
+                    ctx.fillStyle = "rgba(255, 255, 255, 1.0)"; 
+ 
+                    // Superior primero 
+                    ctx.beginPath(); 
+                    ctx.arc(110, 25, 5, 0, Math.PI*2, true); 
+                    ctx.fill(); 
+ 
+                    // Superior segundo 
+                    ctx.beginPath(); 
+                    ctx.arc(135, 25, 8, 0, Math.PI*2, true); 
+                    ctx.fill(); 
+ 
+                    // Inferior primero 
+                    ctx.beginPath(); 
+                    ctx.arc(65, 175, 8, 0, Math.PI*2, true); 
+                    ctx.fill(); 
+ 
+                    // Inferior segundo 
+                    ctx.beginPath(); 
+                    ctx.arc(90, 175, 5, 0, Math.PI*2, true); 
+                    ctx.fill();
+
+                    ctx.beginPath(); 
+                    ctx.moveTo(150, 19); 
+                    ctx.lineTo(150,31); 
+                    ctx.lineTo(170,31); 
+                    ctx.lineTo(170,54);
+
+                    ctx.lineTo(182,54); 
+                    ctx.lineTo(182, 31); 
+                    ctx.lineTo(182, 19); 
+                    ctx.closePath(); 
+                    ctx.fill();  
+ 
+                    ctx.beginPath(); 
+                    ctx.moveTo(18, 150); 
+                    ctx.lineTo(30,150); 
+                    ctx.lineTo(30,169); 
+                    ctx.lineTo(51,169); 
+                    ctx.lineTo(51,181); 
+                    ctx.lineTo(18,181); 
+                    ctx.closePath(); 
+                    ctx.fill();
+
+                   // Definimos una fuente y un tamaño de letra. 
+                    ctx.font = '28px sans-serif';
+ 
+                    // Podemos establecer la alineación base. 
+                    ctx.textBaseline = 'bottom'; 
+ 
+                    // Y solo queda utilizar fillText para definir el texto a mostrar y la posición de origen. 
+                    ctx.fillText('Sitio en', 20, 90);
+                    ctx.fillText('Construcción', 20, 130); 
+
+                ctx.fillStyle = "rgba(180, 218, 246, 0.25)";  
+ 
+                    ctx.beginPath();
+
+                    ctx.moveTo(10, 10); 
+                    ctx.lineTo(165, 10);
+                    ctx.quadraticCurveTo(190, 10, 190, 35); 
+                    ctx.lineTo(190, 75);
+                    ctx.quadraticCurveTo(190, 100, 100, 100); 
+                    ctx.lineTo(100, 100);
+                    ctx.quadraticCurveTo(10, 100, 10, 75); 
+                    ctx.lineTo(10, 35);                    
+                    ctx.quadraticCurveTo(10, 10, 35, 10); 
+                    ctx.fill();
+
+                 //Carcasa iPhone 
+                    ctx.fillStyle = "rgba(0, 0, 0, 1.0)"; 
+ 
+                    ctx.beginPath(); 
+                    ctx.moveTo(110, 150); 
+                    ctx.lineTo(186, 150); 
+                    ctx.quadraticCurveTo(196, 150, 196, 160); 
+                    ctx.lineTo(196, 186); 
+                    ctx.quadraticCurveTo(196, 196, 186, 196); 
+                    ctx.lineTo(120, 196); 
+                    ctx.quadraticCurveTo(110, 196, 110, 186); 
+                    ctx.lineTo(110, 160); 
+                    ctx.quadraticCurveTo(110, 150, 120, 150); 
+                    ctx.fill();
+
+                 // Pantalla iPhone 
+                    ctx.fillStyle = "rgb(41,155,243)"; 
+                    ctx.fillRect (129, 158, 50, 30)
+
+                 // Botón iPhone 
+                    ctx.fillStyle = "rgba(255, 255, 255, 1.0)"; 
+                    ctx.beginPath();
+
+                    ctx.arc(120, 173.5, 4, 0, Math.PI*2, true); 
+                    ctx.fill();
+
+                 // Texto "com" 
+                    ctx.font = '20px sans-serif'; 
+                    ctx.textBaseline = 'bottom'; 
+                    ctx.fillText(' ', 134, 183.7); 
+                }
+            }
+        </script>
+</head>
+<body onLoad="simpleCanvas();">
+    
+	<aside class="margin: 0 auto; width: 200px;">
+		<center>            
+		<canvas id="polygons" width="300" height="300">
+        <p>Su navegador no soporta HTML5</p></center>
+    </canvas>
+	</aside>
+	
+</body>
+</html>

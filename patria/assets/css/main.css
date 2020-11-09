@@ -1,0 +1,114 @@
+.hand{cursor: pointer;}
+table tr.tableheader th{background-color: gray;color: white;}
+.usermenuhide, .usermenuhide:hover{color:white;text-decoration: none;}
+#cl-wrapper{-webkit-flex-grow:1;background:#f2f8f9;flex-grow:1;padding:1.5rem 1.7rem;width:100%;}
+#contenedormovil .icon-bar,#contenedormovil .navbar-collapse{background-color:#FFF;}
+#contenedormovil .nav-item{display:block;padding:.3em 1em;width:100%;}
+#contenedormovil .nav-item a{padding-left:10px;}
+#contenedormovil .navbar-brand{color:#FFF;}
+#contenedormovil .navbar-header{width:100%;}
+#contenedormovil,.navbar.default-layout{background:linear-gradient(120deg,#e65251,rgb(89,131,232));}
+#ficha_general{margin-top:initial!important;}
+.breadcrumb,.page-head h2{display:none;}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6,.navbar-brand,p,a,button{font-family:Poppins, sans-serif!important;font-weight:500;}
+.menu-title,.nav-link{text-transform:capitalize;}
+.navbar{border:0;margin:0;}
+.panel-title a,.panel-title a:hover,td a:hover{text-decoration:none;}
+.sidebar .nav.sub-menu {padding: 0; }
+.sidebar .nav.sub-menu a{padding: 0 0 0 2rem; }
+.tab-pane,.accordion, table{padding-top:1em;}
+form .table .table{margin: 0;background-color:#f2f8f9;}
+form .table .table td{margin: 0;padding: 0}
+.table td img,.table th img{border-radius:0;height:initial;width:initial;}
+.ui-corner-all,.ui-corner-top,.ui-corner-left,.ui-corner-tl,.ui-corner-all,.ui-corner-top,.ui-corner-right,.ui-corner-tr{border-radius:0!important;font-family:Poppins, sans-serif;}
+.ui-dialog .ui-dialog-buttonpane button{background:#308ee0;border:0;color:#FFF;font-family:Poppins, sans-serif;padding:5px 10px;}
+.ui-dialog .ui-dialog-title{font-weight:400;}
+.ui-widget{font-family:Poppins, sans-serif;font-size:97%!important;}
+body.loading{overflow:hidden;}
+body.loading .modal{display:block;}
+button,select,input,.navbar{border-radius:1px!important;}
+form textarea{resize:none;}
+form,form table td{border:0!important;}
+html{padding-top:0!important;}
+label{font-weight:500;width:99%;}
+select,option,.btn{text-transform:capitalize!important;}
+table.border-cero td{border:0;border-top:0 solid #ddd!important;}
+img[src="public/images/lupa.png"]{
+	margin-left: 5px;
+	cursor: pointer;
+	margin-top: 8px;
+}
+@media(max-width: 767px){
+	.ui-dialog{ width: 95% !important; }
+	.custom-tabl-respos td, .custom-tabl-respos th{display: initial; padding: 1px !important;}
+	.custom-tabl-respos img{ margin: 0 auto; display: -webkit-box; }
+}
+@media(min-width: 768px){
+	.ui-dialog{ width: 80% !important; }
+	.custom-tabl-respos td, .custom-tabl-respos th{display: table-cell; padding: inherit;}
+	.custom-tabl-respos img{ margin: 0 auto; display: -webkit-box; }
+}
+@media(min-width: 992px){
+	.ui-dialog{ width: 70% !important; }
+	.custom-tabl-respos td, .custom-tabl-respos th{display: table-cell; padding: inherit;}
+	.custom-tabl-respos img{ margin: inherit; margin-top: 10px; margin-left: 5px; display: -webkit-box; }
+}
+@media(min-width: 1200px){
+	.ui-dialog{ width: 50% !important; }
+	.custom-tabl-respos td, .custom-tabl-respos th{display: table-cell; padding: inherit;}
+	.custom-tabl-respos img{ margin: inherit; margin-top: 10px; margin-left: 5px; display: -webkit-box; }
+}
+.navbar-toggler-icon {
+    height: 23px !important;
+    background-image: url(../images/mobilemenu.png);
+}
+.activae{background: #f2f8f9; }
+.sidebar .nav.sub-menu .nav-item .nav-link { padding: 0.75rem 3rem; }
+.ui-dialog {
+    z-index:1000000000;
+    top: 0; left: 0;
+    margin: auto;
+    position: fixed;
+    max-width: 100%;
+    max-height: calc(100% - 3em);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+.ui-dialog .ui-dialog-content { flex: 1; }
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}
