@@ -4,6 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Controller_bitacora extends CI_Controller {
 
+    //Puto El Que Lo Lea xD
     public function __construct() {
         date_default_timezone_set('America/El_Salvador');
         parent::__construct();
