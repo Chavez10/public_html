@@ -16,7 +16,7 @@ class Controller_home extends CI_Controller {
         $this->load->model('Model_visitas');
         $this->load->library('session');
     }
-
+    //adfadsfadfasdf
     //Puto el que lo lea xDD
     public function index() {
         if (isset($_SESSION['idusuario'])) {
