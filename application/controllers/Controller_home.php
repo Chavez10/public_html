@@ -17,7 +17,7 @@ class Controller_home extends CI_Controller {
         $this->load->library('session');
     }
 
-    //Puto el que lo lea xD
+    //Puto el que lo lea xDD
     public function index() {
         if (isset($_SESSION['idusuario'])) {
             redirect('Controller_home/principal', 'refresh');
