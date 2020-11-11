@@ -15,6 +15,15 @@ class Model_edition extends CI_Model {
         return $resultado;
     }
 
+    public function info_edition_ini() {
+        $this->db->limit(1);
+        $this->db->where('estado','Activo');
+        $this->db->order_by('fecha_publicacion', 'desc');
+        $edition = $this->db->get('edicion');
+
+        $resultado = $edition->result_array();
+        return $resultado;
+    }
 
     public function eliminar_edition($table, $delteBtnId) {
         $this->db->where('id_edicion', $delteBtnId);
