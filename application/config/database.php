@@ -48,10 +48,14 @@
 $active_group = 'default';
 $active_record = TRUE;
 
+<<<<<<< HEAD
 //Puto el que lo lea xD
 $db['default']['hostname'] = 'localhost:3307';
+=======
+$db['default']['hostname'] = 'localhost:3306';
+>>>>>>> 4919704faacac72604ac816a25c251bb4f986934
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'root';
+$db['default']['password'] = '';
 $db['default']['database'] = 'umasferrerdb';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
