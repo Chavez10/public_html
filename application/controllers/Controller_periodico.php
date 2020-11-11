@@ -13,6 +13,7 @@ class Controller_periodico extends CI_Controller {
         $this->load->model('Model_red');
         $this->load->model('Model_NoticeView');
         $this->load->model('Model_Perfiles');
+        $this->load->model('Model_edition');
         $this->load->model('Model_Notice');
     }
 
@@ -22,6 +23,7 @@ class Controller_periodico extends CI_Controller {
         $data['main_content'] = $vista;
         $data['tema'] = $this->Model_tema->info_tema();
         $data['red'] = $this->Model_red->info_red();
+        $data['edit'] = $this->Model_edition->info_edition();
         $this->load->view('template_web/principal/View_template', $data);
     }
 

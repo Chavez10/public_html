@@ -21,7 +21,11 @@ class Controller_home extends CI_Controller {
         if (isset($_SESSION['idusuario'])) {
             redirect('Controller_home/principal', 'refresh');
         } else {
-            redirect('Controller_home/index_web', 'refresh');
+            $edit = $this->Model_edition->info_edition_ini();
+            foreach ($edit as $e) {
+                $xd = $e['id_edicion'];
+            }
+            redirect('Controller_periodico/edition/'.$xd, 'refresh');
         }
     }
 
@@ -34,6 +38,10 @@ class Controller_home extends CI_Controller {
 
     public function cargar_plantilla_login($vista, $data) {
         $data['main_content'] = $vista;
+        $edit = $this->Model_edition->info_edition_ini();
+        foreach ($edit as $e) {
+            $xd = $e['id_edicion'];
+        }
         $this->load->view('template_web/login/View_template', $data);
     }
 

@@ -16,7 +16,7 @@ $color = $value->color;
 
 <div class="main_title_2">
     <span><em></em></span>
-    <h1 style="color: <?php echo $color; ?>"><i class="fa fa-newspaper-o"></i>  Listado de Ediciónes</h1>
+    <h1 style="color: <?php echo $color; ?>"><i class="fa fa-newspaper-o"></i>Ediciónes</h1>
 </div>
 
 <?php $fox = base_url().'assets/upload/6020.png'?>
