@@ -19,6 +19,7 @@ class Controller_home extends CI_Controller {
     //adfadsfadfasdf
     //Puto el que lo lea xDD
     //uigyufyufiyfky
+    // wapos XD
     public function index() {
         if (isset($_SESSION['idusuario'])) {
             redirect('Controller_home/principal', 'refresh');
