@@ -14,6 +14,37 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/lightbox.css">
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
 
+	<div class="agileits_main jarallax">
+  <div class="container-fluid">
+  <div class="w3ls-header">
+   <div class="w3layouts-header-top">
+  	<div class="w3-header-top-grids">
+	 <div class="w3-header-top-left">
+	 						<div class="agileinfo-social-grids">
+							<ul>
+								<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+								<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+								<li><a href="#"><span class="fa fa-rss"></span></a></li>
+								<li><a href="#"><span class="fa fa-vk"></span></a></li>
+							</ul>
+						</div>
+	 </div>
+					<div class="w3-header-top-right">
+
+						<div class="w3-header-top-right-text">
+							<p><span class="fa fa-home" aria-hidden="true"></span> 1st Street , New York</p>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+	<div class="w3-agile-logo">
+	<div class="head-wl">
+	<div class="email">
+	<p><span class="fa fa-envelope"  aria-hidden="true"></span> <a href="mailto:mail@example.com" class="info"> info@photos.com</a></p>
+
+
 	</div>
 		<div class="headder-w3">
 		<h1><a href="index.html">Anchor</a></h1>
