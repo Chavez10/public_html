@@ -4,14 +4,15 @@
 	<title>Iniciar sesión | Patria</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/bootstrap.css" type="text/css" media="all">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/font-awesome.css">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/cm-overlay.css">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/jquery.fatNav.css">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/style.css" type="text/css" media="all">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/owl.carousel.css" type="text/css" media="all">
-	<link rel="stylesheet" href="<?php base_url(); ?>assetsfront/css/lightbox.css">
-	<link rel="stylesheet" href="<?php base_url(); ?>//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
+	<base href = "<?php echo base_url(); ?>">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/bootstrap.css" type="text/css" media="all">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/font-awesome.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/cm-overlay.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/jquery.fatNav.css">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/owl.carousel.css" type="text/css" media="all">
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/lightbox.css">
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
 
 	</div>
 		<div class="headder-w3">
@@ -42,14 +43,14 @@
 </div>
 
 
-<script type='text/javascript' src='js/jquery-2.2.3.min.js'></script>
+<script type='text/javascript' src='<?php echo base_url(); ?>assetsfront/js/jquery-2.2.3.min.js'></script>
 <!-- //js -->
 
 <!--menu script-->
-<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>	
+<script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/modernizr-2.6.2.min.js"></script>
+<script src="<?php echo base_url(); ?>assetsfront/js/bootstrap.min.js"></script>	
 <!--navbar script-->
-		<script src="js/jquery.fatNav.js"></script>
+		<script src="<?php echo base_url(); ?>assetsfront/js/jquery.fatNav.js"></script>
 		<script>
 		(function() {
 			
@@ -58,7 +59,7 @@
 		}());
 		</script>
 	<!--banner slider script-->
-  <script src="js/responsiveslides.min.js"></script>
+  <script src="<?php echo base_url(); ?>assetsfront/js/responsiveslides.min.js"></script>
 			  <script>
 				// You can also use "$(window).load(function() {"
 				$(function () {
@@ -81,7 +82,7 @@
 			 </script>
 
 	<!--client carousel -->
-	<script src="js/owl.carousel.js"></script>
+	<script src="<?php echo base_url(); ?>assetsfront/js/owl.carousel.js"></script>
 	<script>
 		$(document).ready(function () {
 			$("#owl-demo").owlCarousel({
@@ -101,8 +102,8 @@
 	</script>
 	<!-- //carousel -->
 	<!-- gallery-pop-up -->
-	<script src="js/jquery.chocolat.js"></script>
-	<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
+	<script src="<?php echo base_url(); ?>assetsfront/js/jquery.chocolat.js"></script>
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/chocolat.css" type="text/css" media="screen">
 	<!--light-box-files -->
 	<script type="text/javascript">
 		$(function () {
@@ -111,8 +112,8 @@
 	</script>
 	<!-- //gallery-pop-up -->
 		<!-- start-smoth-scrolling -->
-<script type="text/javascript" src="js/move-top.js"></script>
-<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/move-top.js"></script>
+<script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/easing.js"></script>
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".scroll").click(function(event){		
