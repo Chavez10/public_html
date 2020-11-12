@@ -27,7 +27,6 @@ class Controller_periodico extends CI_Controller {
         $this->load->view('template_web/principal/View_template', $data);
     }
 
-
 	function lastNews($f,$l)
     {
         $data['titulo'] = "Noticia";
