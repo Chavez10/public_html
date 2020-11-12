@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/owl.carousel.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/lightbox.css">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
-
+<!-- dfa-->
 	</div>
 		<div class="headder-w3">
 		<h1><a href="index.html">Anchor</a></h1>
