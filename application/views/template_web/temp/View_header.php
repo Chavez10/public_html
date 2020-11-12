@@ -4,7 +4,10 @@
 	<title>Iniciar sesión | Patria</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
 	<base href = "<?php echo base_url(); ?>">
+=======
+>>>>>>> 1decc1a912176b02cbad0302dfab37df7634cc97
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/bootstrap.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/font-awesome.css">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/cm-overlay.css">
@@ -12,7 +15,11 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/owl.carousel.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/lightbox.css">
+<<<<<<< HEAD
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
+=======
+	<link rel="stylesheet" href="<?php echo base_url(); ?>//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
+>>>>>>> 1decc1a912176b02cbad0302dfab37df7634cc97
 
 	</div>
 		<div class="headder-w3">
