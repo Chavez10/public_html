@@ -42,11 +42,11 @@
 </div>
 
 
-<script type='text/javascript' src='js/jquery-2.2.3.min.js'></script>
+<script type='text/javascript' src='assetsfront/js/jquery-2.2.3.min.js'></script>
 <!-- //js -->
 
 <!--menu script-->
-<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="assetsfront/js/modernizr-2.6.2.min.js"></script>
 <script src="js/bootstrap.min.js"></script>	
 <!--navbar script-->
 		<script src="js/jquery.fatNav.js"></script>
@@ -58,7 +58,7 @@
 		}());
 		</script>
 	<!--banner slider script-->
-  <script src="js/responsiveslides.min.js"></script>
+  <script src="assetsfront/js/responsiveslides.min.js"></script>
 			  <script>
 				// You can also use "$(window).load(function() {"
 				$(function () {
@@ -81,7 +81,7 @@
 			 </script>
 
 	<!--client carousel -->
-	<script src="js/owl.carousel.js"></script>
+	<script src="assetsfront/js/owl.carousel.js"></script>
 	<script>
 		$(document).ready(function () {
 			$("#owl-demo").owlCarousel({
@@ -101,8 +101,8 @@
 	</script>
 	<!-- //carousel -->
 	<!-- gallery-pop-up -->
-	<script src="js/jquery.chocolat.js"></script>
-	<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
+	<script src="assetsfront/js/jquery.chocolat.js"></script>
+	<link rel="stylesheet" href="assetsfront/css/chocolat.css" type="text/css" media="screen">
 	<!--light-box-files -->
 	<script type="text/javascript">
 		$(function () {
@@ -111,8 +111,8 @@
 	</script>
 	<!-- //gallery-pop-up -->
 		<!-- start-smoth-scrolling -->
-<script type="text/javascript" src="js/move-top.js"></script>
-<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript" src="assetsfront/js/move-top.js"></script>
+<script type="text/javascript" src="assetsfront/js/easing.js"></script>
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".scroll").click(function(event){		
