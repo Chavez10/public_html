@@ -4,10 +4,7 @@
 	<title>Iniciar sesión | Patria</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<<<<<<< HEAD
 	<base href = "<?php echo base_url(); ?>">
-=======
->>>>>>> 1decc1a912176b02cbad0302dfab37df7634cc97
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/bootstrap.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/font-awesome.css">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/cm-overlay.css">
@@ -15,16 +12,8 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/style.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/owl.carousel.css" type="text/css" media="all">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/lightbox.css">
-<<<<<<< HEAD
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
-=======
-	<link rel="stylesheet" href="<?php echo base_url(); ?>//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700">
-<<<<<<< HEAD
->>>>>>> 1decc1a912176b02cbad0302dfab37df7634cc97
 
-=======
-<!-- dfa-->
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 	</div>
 		<div class="headder-w3">
 		<h1><a href="index.html">Anchor</a></h1>
@@ -54,21 +43,12 @@
 </div>
 
 
-<<<<<<< HEAD
 <script type='text/javascript' src='<?php echo base_url(); ?>assetsfront/js/jquery-2.2.3.min.js'></script>
 <!-- //js -->
 
 <!--menu script-->
 <script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/modernizr-2.6.2.min.js"></script>
 <script src="<?php echo base_url(); ?>assetsfront/js/bootstrap.min.js"></script>	
-=======
-<script type='text/javascript' src='assetsfront/js/jquery-2.2.3.min.js'></script>
-<!-- //js -->
-
-<!--menu script-->
-<script type="text/javascript" src="assetsfront/js/modernizr-2.6.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>	
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 <!--navbar script-->
 		<script src="<?php echo base_url(); ?>assetsfront/js/jquery.fatNav.js"></script>
 		<script>
@@ -79,11 +59,7 @@
 		}());
 		</script>
 	<!--banner slider script-->
-<<<<<<< HEAD
   <script src="<?php echo base_url(); ?>assetsfront/js/responsiveslides.min.js"></script>
-=======
-  <script src="assetsfront/js/responsiveslides.min.js"></script>
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 			  <script>
 				// You can also use "$(window).load(function() {"
 				$(function () {
@@ -106,11 +82,7 @@
 			 </script>
 
 	<!--client carousel -->
-<<<<<<< HEAD
 	<script src="<?php echo base_url(); ?>assetsfront/js/owl.carousel.js"></script>
-=======
-	<script src="assetsfront/js/owl.carousel.js"></script>
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 	<script>
 		$(document).ready(function () {
 			$("#owl-demo").owlCarousel({
@@ -130,13 +102,8 @@
 	</script>
 	<!-- //carousel -->
 	<!-- gallery-pop-up -->
-<<<<<<< HEAD
 	<script src="<?php echo base_url(); ?>assetsfront/js/jquery.chocolat.js"></script>
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assetsfront/css/chocolat.css" type="text/css" media="screen">
-=======
-	<script src="assetsfront/js/jquery.chocolat.js"></script>
-	<link rel="stylesheet" href="assetsfront/css/chocolat.css" type="text/css" media="screen">
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 	<!--light-box-files -->
 	<script type="text/javascript">
 		$(function () {
@@ -145,13 +112,8 @@
 	</script>
 	<!-- //gallery-pop-up -->
 		<!-- start-smoth-scrolling -->
-<<<<<<< HEAD
 <script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/move-top.js"></script>
 <script type="text/javascript" src="<?php echo base_url(); ?>assetsfront/js/easing.js"></script>
-=======
-<script type="text/javascript" src="assetsfront/js/move-top.js"></script>
-<script type="text/javascript" src="assetsfront/js/easing.js"></script>
->>>>>>> d0d6795408d4f61e44b8150f7d41ebaa3d5000f3
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
 		$(".scroll").click(function(event){		
