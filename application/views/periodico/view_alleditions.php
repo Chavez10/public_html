@@ -106,7 +106,7 @@ $color = $value->color;
                 filas += "<span>Ver más</span>"
                 filas += "</div>"
                 filas += "</a>"
-                filas += "<small>Edicion Nº"+item.num_edicion+" - Noticia Principal</small>"
+                filas += "<small>Edicion Nº"+item.num_edicion+" - "+item.Fecha+"</small>"
                 filas += "</figure>"
                 } else {
                 filas += "<figure>"

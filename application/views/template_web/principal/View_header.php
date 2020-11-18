@@ -45,7 +45,7 @@
 
   <header>
     <div align="center" style="background: #d6d6d6">
-      <a href="<?php echo base_url(); ?>Controller_home/index_web"><img id="img-port" src="<?php echo base_url(); ?>logo.png" alt=""></a>
+      <a href="<?php echo base_url(); ?>Controller_home/index"><img id="img-port" src="<?php echo base_url(); ?>logo.png" alt=""></a>
     </div>  
 
     <div class="navbar navbar-custom navbar navscroll" style="background: <?php echo $headder; ?>;border-radius:0px;border-color: <?php echo $headder; ?>;">
@@ -60,7 +60,7 @@
         <center>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-left weg">
-              <li id="po"><a id="he-a" class="nav navbar-nav" href="<?php echo base_url(); ?>Controller_home/index_web">Periódico Digital</a></li>
+              <li id="po"><a id="he-a" class="nav navbar-nav" href="<?php echo base_url(); ?>Controller_home/index">Periódico Digital</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
               <li id="po"><a id="he-a" href="<?php echo base_url();?>Controller_periodico/all_News/1">Noticias USAM</a></li>
