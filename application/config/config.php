@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //Puto el que lo lea xD
-c$config['base_url'] = 'http://localhost/public_html/';
+$config['base_url'] = 'http://localhost:8888/public_html/';
 #$config['base_url'] = 'http://'.$_SERVER["SERVER_NAME"].'/';
 #$config['base_url'] = 'http://www.patriamasferreriana.com/';
 #$config['base_url'] = 'http://192.168.0.2:8081/proyecto/';
