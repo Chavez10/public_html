@@ -7,7 +7,7 @@
 <!-- wow animation -->
 <script src="<?php echo base_url() ?>assets_F/js/wow.js"></script>
 <!-- custom js -->
-<script src="js/custom.js"></script>
+<script src="<?php echo base_url() ?>assets_F/js/custom.js"></script>
 <!-- revolution js files -->
 <script src="<?php echo base_url() ?>assets_F/revolution/js/jquery.themepunch.tools.min.js"></script>
 <script src="<?php echo base_url() ?>assets_F/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -118,7 +118,7 @@
                 ]
          });
          
-           var image = 'images/it_service/location_icon_map_cont.png';
+           var image = '<?php echo base_url() ?>assets_F/images/it_service/location_icon_map_cont.png';
            var beachMarker = new google.maps.Marker({
              position: {lat: 40.645037, lng: -73.880224},
              map: map,

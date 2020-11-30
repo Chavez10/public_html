@@ -1,7 +1,7 @@
 </head>
 <body id="default_theme" class="it_service">
 <!-- loader -->
-<div class="bg_load"> <img class="loader_animation" src="images/loaders/loader_1.png" alt="#" /> </div>
+<div class="bg_load"> <img class="loader_animation" src="<?php echo base_url() ?>assets_F/images/loaders/loader_1.png" alt="#" /> </div>
 <!-- end loader -->
 <!-- header -->
 <header id="default_header" class="header_style_1">
@@ -45,7 +45,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
           <!-- logo start -->
-          <div class="logo"> <a href="it_home.html"><img src="images/logos/it_logo.png" alt="logo" /></a> </div>
+          <div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/images/logos/it_logo.png" alt="logo" /></a> </div>
           <!-- logo end -->
         </div>
         <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
@@ -122,7 +122,7 @@
           <ul>
             <li data-index="rs-1812" data-transition="zoomin" data-slotamount="7"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/it_service/slide1.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Computer Services" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/it_service/slide1.jpg"  alt="#"  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="<?php echo base_url() ?>assets_F/images/it_service/slide1.jpg"  alt="#"  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. BG -->
               <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
@@ -198,7 +198,7 @@
             </li>
             <li data-index="rs-181" data-transition="zoomin" data-slotamount="7"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/it_service/slide2.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Easy To Use & Customize" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/it_service/slide2.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="<?php echo base_url() ?>assets_F/images/it_service/slide2.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. BG -->
               <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
@@ -274,7 +274,7 @@
             </li>
             <li data-index="rs-18" data-transition="zoomin" data-slotamount="7"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/it_service/slide3.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Perfectly Responsive" data-description="">
               <!-- MAIN IMAGE -->
-              <img src="images/it_service/slide3.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+              <img src="<?php echo base_url() ?>assets_F/images/it_service/slide3.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
               <!-- LAYERS -->
               <!-- LAYER NR. BG -->
               <div class="tp-caption tp-shape tp-shapewrapper   rs-parallaxlevel-0" 
@@ -373,7 +373,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i1.png" alt="#" /> </div>
+            <div class="icon"> <img src="<?php echo base_url() ?>assets_F/images/it_service/i1.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Data recovery</h4>
           <p>Perspiciatis eos quos totam cum minima aut!</p>
@@ -382,7 +382,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i2.png" alt="#" /> </div>
+            <div class="icon"> <img src="<?php echo base_url() ?>assets_F/images/it_service/i2.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Computer repair</h4>
           <p>Perspiciatis eos quos totam cum minima aut!</p>
@@ -391,7 +391,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i3.png" alt="#" /> </div>
+            <div class="icon"> <img src="<?php echo base_url() ?>assets_F/images/it_service/i3.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Mobile service</h4>
           <p>Perspiciatis eos quos totam cum minima aut!</p>
@@ -400,7 +400,7 @@
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
         <div class="full text_align_center margin_bottom_30 margin_0">
           <div class="center">
-            <div class="icon"> <img src="images/it_service/i4.png" alt="#" /> </div>
+            <div class="icon"> <img src="<?php echo base_url() ?>assets_F/images/it_service/i4.png" alt="#" /> </div>
           </div>
           <h4 class="theme_color">Network solutions</h4>
           <p>Perspiciatis eos quos totam cum minima aut!</p>
@@ -497,7 +497,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si1.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si1.png" alt="#" /></div>
                 <h4 class="service-heading">Fast service</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -506,7 +506,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si2.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si2.png" alt="#" /></div>
                 <h4 class="service-heading">Secure payments</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -515,7 +515,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si3.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si3.png" alt="#" /></div>
                 <h4 class="service-heading">Expert team</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -524,7 +524,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si4.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si4.png" alt="#" /></div>
                 <h4 class="service-heading">Affordable services</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -533,7 +533,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si5.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si5.png" alt="#" /></div>
                 <h4 class="service-heading">90 Days warranty</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -542,7 +542,7 @@
           <div class="col-md-4">
             <div class="full">
               <div class="service_blog_inner">
-                <div class="icon text_align_left"><img src="images/it_service/si6.png" alt="#" /></div>
+                <div class="icon text_align_left"><img src="<?php echo base_url() ?>assets_F/images/it_service/si6.png" alt="#" /></div>
                 <h4 class="service-heading">Award winning</h4>
                 <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo.</p>
               </div>
@@ -570,7 +570,7 @@
     <div class="row">
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/1.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/1.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -586,7 +586,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/2.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/2.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Kaspersky Internet Security</a></h4>
@@ -602,7 +602,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/3.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/3.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Mcafee Livesafe Antivirus</a></h4>
@@ -618,7 +618,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/4.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/4.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -634,7 +634,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/5.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/5.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -650,7 +650,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/6.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/6.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Kaspersky Internet Security</a></h4>
@@ -666,7 +666,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/7.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/7.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Mcafee Livesafe Antivirus</a></h4>
@@ -682,7 +682,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/8.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/8.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -698,7 +698,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/1.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/1.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -714,7 +714,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/2.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/2.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Kaspersky Internet Security</a></h4>
@@ -730,7 +730,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/3.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/3.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Mcafee Livesafe Antivirus</a></h4>
@@ -746,7 +746,7 @@
       </div>
       <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
         <div class="product_list">
-          <div class="product_img"> <img class="img-responsive" src="images/it_service/4.jpg" alt=""> </div>
+          <div class="product_img"> <img class="img-responsive" src="<?php echo base_url() ?>assets_F/images/it_service/4.jpg" alt=""> </div>
           <div class="product_detail_btm">
             <div class="center">
               <h4><a href="it_shop_detail.html">Norton Internet Security</a></h4>
@@ -830,7 +830,7 @@
     <div class="row">
       <div class="col-md-4">
         <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/it_service/post-03.jpg" alt="#" /> </div>
+          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-03.jpg" alt="#" /> </div>
           <div class="post_time">
             <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
           </div>
@@ -844,7 +844,7 @@
       </div>
       <div class="col-md-4">
         <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/it_service/post-04.jpg" alt="#" /> </div>
+          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-04.jpg" alt="#" /> </div>
           <div class="post_time">
             <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
           </div>
@@ -858,7 +858,7 @@
       </div>
       <div class="col-md-4">
         <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="images/it_service/post-06.jpg" alt="#" /> </div>
+          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-06.jpg" alt="#" /> </div>
           <div class="post_time">
             <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
           </div>
@@ -903,7 +903,7 @@
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
                     I am really satisfied with my first laptop service. </div>
-                  <div class="testimonial-photo"> <img src="images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                  <div class="testimonial-photo"> <img src="<?php echo base_url() ?>assets_F/images/it_service/client1.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
                     <h4>Maria Anderson</h4>
                     <span class="testimonial-position">CFO, Tech NY</span> </div>
@@ -913,7 +913,7 @@
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
                     I am really satisfied with my first laptop service. </div>
-                  <div class="testimonial-photo"> <img src="images/it_service/client2.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                  <div class="testimonial-photo"> <img src="<?php echo base_url() ?>assets_F/images/it_service/client2.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
                     <h4>Maria Anderson</h4>
                     <span class="testimonial-position">CFO, Tech NY</span> </div>
@@ -923,7 +923,7 @@
                 <div class="testimonial-container">
                   <div class="testimonial-content"> You guys rock! Thank you for making it painless, pleasant and most of all hassle free! I wish I would have thought of it first. 
                     I am really satisfied with my first laptop service. </div>
-                  <div class="testimonial-photo"> <img src="images/it_service/client3.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
+                  <div class="testimonial-photo"> <img src="<?php echo base_url() ?>assets_F/images/it_service/client3.jpg" class="img-responsive" alt="#" width="150" height="150"> </div>
                   <div class="testimonial-meta">
                     <h4>Maria Anderson</h4>
                     <span class="testimonial-position">CFO, Tech NY</span> </div>
@@ -947,7 +947,7 @@
       <div class="col-md-12">
         <div class="full">
           <div class="contact_us_section">
-            <div class="call_icon"> <img src="images/it_service/phone_icon.png" alt="#" /> </div>
+            <div class="call_icon"> <img src="<?php echo base_url() ?>assets_F/images/it_service/phone_icon.png" alt="#" /> </div>
             <div class="inner_cont">
               <h2>REQUEST A FREE QUOTE</h2>
               <p>Get answers and advice from people you want it from.</p>
@@ -967,11 +967,11 @@
       <div class="col-md-12">
         <div class="full">
           <ul class="brand_list">
-            <li><img src="images/it_service/brand_icon1.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon2.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon3.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon4.png" alt="#" /></li>
-            <li><img src="images/it_service/brand_icon5.png" alt="#" /></li>
+            <li><img src="<?php echo base_url() ?>assets_F/images/it_service/brand_icon1.png" alt="#" /></li>
+            <li><img src="<?php echo base_url() ?>assets_F/images/it_service/brand_icon2.png" alt="#" /></li>
+            <li><img src="<?php echo base_url() ?>assets_F/images/it_service/brand_icon3.png" alt="#" /></li>
+            <li><img src="<?php echo base_url() ?>assets_F/images/it_service/brand_icon4.png" alt="#" /></li>
+            <li><img src="<?php echo base_url() ?>assets_F/images/it_service/brand_icon5.png" alt="#" /></li>
           </ul>
         </div>
       </div>
