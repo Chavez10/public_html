@@ -6,8 +6,25 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<base href = "<?php echo base_url(); ?>">
 
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
-	<link href="<?php echo base_url() ?>assets_F/img/brand/favicon.png" type="image/png">	
+	<!-- site icons -->
+	<link rel="icon" href="<?php echo base_url() ?>assets_F/images/fevicon/fevicon.png" type="image/gif" />
+	<!-- bootstrap css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/bootstrap.min.css" />
+	<!-- Site css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/style.css" />
+	<!-- responsive css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/responsive.css" />
+	<!-- colors css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/colors1.css" />
+	<!-- custom css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/custom.css" />
+	<!-- wow Animation css -->
+	<link rel="stylesheet" href="<?php echo base_url() ?>assets_F/css/animate.css" />
+	<!-- revolution slider css -->
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/settings.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/layers.css" />
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/navigation.css" />
+
 
 </head>
 <body>
