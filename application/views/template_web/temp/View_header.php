@@ -28,17 +28,17 @@
 
 	<body id="default_theme" class="it_service">
 	<!-- loader -->
-	<div class="bg_load"> <img class="loader_animation" src="<?php echo base_url() ?>assets_F/images/loaders/loader_1.png" alt="#" /> </div>
+	<div class="bg_load"> <img class="loader_animation" src="<?php echo base_url() ?>assets_F/USAM.png" alt="#" /> </div>
 	<!-- end loader -->
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
 		<!-- header bottom -->
-		<div class="header_bottom"  data-spy="scroll">
+		<div class="header_bottom" data-spy="scroll">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 						<!-- logo start -->
-						<div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/logo-02.png" alt="logo" /></a> </div>
+						<div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/logo.png" alt="logo" /></a> </div>
 						<!-- logo end -->
 					</div>
 					<div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
