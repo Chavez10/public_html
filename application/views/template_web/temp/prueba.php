@@ -53,22 +53,15 @@
     </div>
   </div>
 </div>
-
-<div class="col-md-12">
-            <div class="full">
-              <div class="main_heading text_align_left">
-                <h2>Ultima Edicion</h2>                
-              </div>
-            </div>
-          </div>
-        </div>
-
 <!-- section -->
 <div class="section padding_layout_1 blog_list">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 pull-right">
         <div class="full">
+          <div class="main_heading text_align_left">
+            <h2>Ultima Edicion</h2>
+          </div>
           <div class="blog_section">
             <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-06.jpg" alt="#"> </div>
             <div class="blog_feature_cantant">
