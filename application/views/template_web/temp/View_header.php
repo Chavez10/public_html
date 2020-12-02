@@ -25,6 +25,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/settings.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/layers.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/navigation.css" />
+</head>
 
 	<body id="default_theme" class="it_service">
 	<div>
@@ -66,8 +67,7 @@
 										</ul>
 									</li>
 									<li><a href="it_about.html">Editoria - Opiniones</a></li>
-									<li><a href="it_about.html">Ediciones</a></li>
-									<li><a href="it_about.html">Perfiles</a></li>									
+
 									<div class="search_icon">
 										<ul>
 											<li><a href="#" data-toggle="modal" data-target="#search_bar"><i class="fa fa-search" aria-hidden="true"></i></a></li>
@@ -78,6 +78,5 @@
 					</div>
 				</div>
 			</div>
-		</head>
 	</header>
-<body>
+</body>
