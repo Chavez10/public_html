@@ -54,6 +54,15 @@
   </div>
 </div>
 
+<div class="col-md-12">
+            <div class="full">
+              <div class="main_heading text_align_left">
+                <h2>Ultima Edicion</h2>                
+              </div>
+            </div>
+          </div>
+        </div>
+
 <!-- section -->
 <div class="section padding_layout_1 blog_list">
   <div class="container">
