@@ -4,7 +4,7 @@
     <div class="row">      
       <div class="footer_blog">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-3">
             <div class="main-heading left_text">
               <h2>It Next Theme</h2>
             </div>
@@ -15,7 +15,7 @@
               <li class="social-icon gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
             </ul>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-3">
             <div class="main-heading left_text">
               <h2>Additional links</h2>
             </div>
@@ -27,7 +27,7 @@
               <li><a href="it_contact.html"><i class="fa fa-angle-right"></i> Contact us</a></li>
             </ul>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-3">
             <div class="main-heading left_text">
               <h2>Services</h2>
             </div>
@@ -39,7 +39,7 @@
               <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Technical support</a></li>
             </ul>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-3">
             <div class="main-heading left_text">
               <h2>Contact us</h2>
             </div>
