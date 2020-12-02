@@ -2,7 +2,7 @@
 <html lang="es">
 
 <head>
-	<title>Iniciar sesión | Patria</title>
+	<title>Periodico Digital | <?php echo $titulo ?></title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<base href="<?php echo base_url(); ?>">
@@ -33,12 +33,12 @@
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
 		<!-- header bottom -->
-		<div class="header_bottom">
+		<div class="header_bottom"  data-spy="scroll">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 						<!-- logo start -->
-						<div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/images/logos/it_logo.png" alt="logo" /></a> </div>
+						<div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/logo-02.png" alt="logo" /></a> </div>
 						<!-- logo end -->
 					</div>
 					<div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
