@@ -25,16 +25,16 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/settings.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/layers.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets_F/revolution/css/navigation.css" />
-</head>
+
 	<body id="default_theme" class="it_service">
-	<div style="position: fixed; background-color:white;">
+	<div>
 	<!-- loader -->
 	<div class="bg_load"><img class="loader_animation" src="<?php echo base_url() ?>assets_F/USAM.png" alt="#" /> </div>
 	<!-- end loader -->
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
 		<!-- header bottom -->
-		<div class="header_bottom">
+		<div class="header_bottom" style="position: fixed; background-color:white;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
@@ -77,5 +77,6 @@
 					</div>
 				</div>
 			</div>
+		</head>
 	</header>
 			<body>
