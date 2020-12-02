@@ -1,5 +1,4 @@
-</head>
-</header>
+
 <!-- end header -->
 <!-- section -->
 <div id="slider" class="section main_slider">
