@@ -15,7 +15,7 @@
               <li class="social-icon gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
             </ul>
           </div>
-          <div class="col-md-3">
+          <div class="col-md-4">
             <div class="main-heading left_text">
               <h2>Additional links</h2>
             </div>

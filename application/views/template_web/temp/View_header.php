@@ -66,7 +66,6 @@
 										</ul>
 									</li>
 									<li><a href="it_about.html">Editoria - Opiniones</a></li>
-
 									<div class="search_icon">
 										<ul>
 											<li><a href="#" data-toggle="modal" data-target="#search_bar"><i class="fa fa-search" aria-hidden="true"></i></a></li>
@@ -79,4 +78,4 @@
 			</div>
 		</head>
 	</header>
-			<body>
+<body>
