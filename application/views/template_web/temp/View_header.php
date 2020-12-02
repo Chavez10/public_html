@@ -67,6 +67,7 @@
 										</ul>
 									</li>
 									<li><a href="it_about.html">Editoria - Opiniones</a></li>
+									<li><a href="it_about.html">Ediciones</a></li>
 								</ul>
 								</div>
 								<div class="search_icon">
