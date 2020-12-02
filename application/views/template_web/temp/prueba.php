@@ -73,7 +73,7 @@
               </div>
               <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
               <div class="bottom_info">
                 <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
                 <div class="pull-right">
@@ -103,7 +103,7 @@
               </div>
               <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
               <div class="bottom_info">
                 <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
                 <div class="pull-right">
@@ -133,7 +133,7 @@
               </div>
               <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
               <div class="bottom_info">
                 <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
                 <div class="pull-right">
@@ -149,21 +149,7 @@
                 </div>
               </div>
             </div>
-          </div>  
-        </div>
-      </div>  
-    </div>
-  </div>  
-</div>
-
-<!-- end section -->
-
-<!-- section -->
-<div class="section padding_layout_1">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="full">
+          </div>
           <div class="main_heading text_align_left">
             <h2>Latest from Our Blog</h2>
           </div>
@@ -216,5 +202,8 @@
     </div>
   </div>
 </div>
+</div>  
+</div>
+
 <!-- end section -->
 
