@@ -66,12 +66,8 @@
 										</ul>
 									</li>
 									<li><a href="it_about.html">Editoria - Opiniones</a></li>
-<<<<<<< HEAD
-=======
 									<li><a href="it_about.html">Ediciones</a></li>
-									<li><a href="it_about.html">Perfiles</a></li>
-									
->>>>>>> ae4d60bede923af6516e62851e4f464cafa357e0
+									<li><a href="it_about.html">Perfiles</a></li>									
 									<div class="search_icon">
 										<ul>
 											<li><a href="#" data-toggle="modal" data-target="#search_bar"><i class="fa fa-search" aria-hidden="true"></i></a></li>
