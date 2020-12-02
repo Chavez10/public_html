@@ -28,7 +28,7 @@
 
 	<body id="default_theme" class="it_service">
 	<!-- loader -->
-	<div class="bg_load"> <img class="loader_animation" src="<?php echo base_url() ?>assets_F/USAM.png" alt="#" /> </div>
+	<div class="bg_load"><img class="loader_animation" src="<?php echo base_url() ?>assets/ulogo.ico" alt="#" /> </div>
 	<!-- end loader -->
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
