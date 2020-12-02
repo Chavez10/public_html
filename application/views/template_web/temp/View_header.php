@@ -33,7 +33,7 @@
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
 		<!-- header bottom -->
-		<div class="header_bottom" style="position: fixed; background-color:white;">
+		<div class="header_bottom" style="position: fixed; background-color:#1535ab;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
