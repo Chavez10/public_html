@@ -39,4 +39,3 @@ class Controller_temp extends CI_Controller {
         $this->cargar_plantilla_web($vista, $data);
     }
 }
-}
