@@ -35,7 +35,8 @@
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
 		<!-- header bottom -->
-		<div class="header_bottom" style="position: fixed; background-color:white;">
+		<!-- <div class="header_bottom" style="position: fixed; background-color:white;"> -->
+		<div class="header_bottom">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
@@ -81,3 +82,40 @@
 			</div>
 	</header>
 </body>
+
+<style>
+	.header_bottom {
+		position: relative;
+		/* default colors + transition */
+		background-color: white;
+		color: black;
+		transition: all 0.3s ease-out;
+	}
+
+	/* scrolling state */
+	.header_bottom.fixed-top {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	/* scrolling colors */
+	background-color: white;
+	color: white;
+	}
+
+	.header_bottom.fixed-top a {
+	color: white;
+	}
+</style>
+<script>
+	document.addEventListener("scroll", function () {
+	const navbar = document.querySelector(".header_bottom");
+	const navbarHeight = 100;
+
+	const distanceFromTop = Math.abs(
+		document.body.getBoundingClientRect().top
+	);
+
+	if (distanceFromTop >= navbarHeight) navbar.classList.add("fixed-top");
+	else navbar.classList.remove("fixed-top");
+	});
+</script>
