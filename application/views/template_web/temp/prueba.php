@@ -52,154 +52,164 @@
       </div>
     </div>
   </div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 pull-right">
-        <div class="full">
-          <div class="main_heading text_align_left">
-            <h2>Ultima Edicion</h2>
-          </div>
-          <div class="blog_section">
-            <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-06.jpg" alt="#"> </div>
-            <div class="blog_feature_cantant">
-              <p class="blog_head">Blogpost With Image</p>
-              <div class="post_info">
-                <ul>
-                  <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
-                  <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
-                  <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
-                </ul>
-              </div>
-              <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
-                asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-              <div class="bottom_info">
-                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
-                <div class="pull-right">
-                  <div class="shr">Share: </div>
-                  <div class="social_icon">
-                    <ul>
-                      <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                      <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                      <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                      <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+
+  <div class="section padding_layout_1">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="full">
+            <div class="main_heading text_align_center">
+              <h2>Edicion N° 65</h2>
             </div>
-          </div>
-          <div class="blog_section">
-            <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-08.jpg" alt="#"> </div>
-            <div class="blog_feature_cantant">
-              <p class="blog_head">Blogpost With Image</p>
-              <div class="post_info">
-                <ul>
-                  <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
-                  <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
-                  <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
-                </ul>
-              </div>
-              <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
-                asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-              <div class="bottom_info">
-                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
-                <div class="pull-right">
-                  <div class="shr">Share: </div>
-                  <div class="social_icon">
-                    <ul>
-                      <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                      <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                      <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                      <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="blog_section">
-            <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/home_01.png" alt="#"> </div>
-            <div class="blog_feature_cantant">
-              <p class="blog_head">Blogpost With Image</p>
-              <div class="post_info">
-                <ul>
-                  <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
-                  <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
-                  <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
-                </ul>
-              </div>
-              <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis, 
-                asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-              <div class="bottom_info">
-                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
-                <div class="pull-right">
-                  <div class="shr">Share: </div>
-                  <div class="social_icon">
-                    <ul>
-                      <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                      <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                      <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                      <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="main_heading text_align_left">
-            <h2>Latest from Our Blog</h2>
           </div>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-03.jpg" alt="#" /> </div>
-          <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
-          </div>
-          <div class="blog_feature_head">
-            <h4>Why Your Computer Hates You</h4>
-          </div>
-          <div class="blog_feature_cont">
-            <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 pull-right">
+            <div class="full">
+              <div class="blog_section">
+                <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-06.jpg" alt="#"> </div>
+                <div class="blog_feature_cantant">
+                  <p class="blog_head">Blogpost With Image</p>
+                  <div class="post_info">
+                    <ul>
+                      <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
+                      <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
+                      <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
+                    </ul>
+                  </div>
+                  <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis,
+                    asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                  <div class="bottom_info">
+                    <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
+                    <div class="pull-right">
+                      <div class="shr">Share: </div>
+                      <div class="social_icon">
+                        <ul>
+                          <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                          <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                          <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                          <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="blog_section">
+                <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-08.jpg" alt="#"> </div>
+                <div class="blog_feature_cantant">
+                  <p class="blog_head">Blogpost With Image</p>
+                  <div class="post_info">
+                    <ul>
+                      <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
+                      <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
+                      <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
+                    </ul>
+                  </div>
+                  <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis,
+                    asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                  <div class="bottom_info">
+                    <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
+                    <div class="pull-right">
+                      <div class="shr">Share: </div>
+                      <div class="social_icon">
+                        <ul>
+                          <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                          <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                          <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                          <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="blog_section">
+                <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/home_01.png" alt="#"> </div>
+                <div class="blog_feature_cantant">
+                  <p class="blog_head">Blogpost With Image</p>
+                  <div class="post_info">
+                    <ul>
+                      <li><i class="fa fa-user" aria-hidden="true"></i> Marketing</li>
+                      <li><i class="fa fa-comment" aria-hidden="true"></i> 5</li>
+                      <li><i class="fa fa-calendar" aria-hidden="true"></i> 12 Aug 2017</li>
+                    </ul>
+                  </div>
+                  <p>Consectetur, assumenda provident lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae laboriosam sunt hic perspiciatis,
+                    asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                  <div class="bottom_info">
+                    <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Read More<i class="fa fa-angle-right"></i></a></div>
+                    <div class="pull-right">
+                      <div class="shr">Share: </div>
+                      <div class="social_icon">
+                        <ul>
+                          <li class="fb"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                          <li class="twi"><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                          <li class="gp"><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                          <li class="pint"><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="main_heading text_align_left">
+                <h2>Latest from Our Blog</h2>
+              </div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-md-4">
-        <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-04.jpg" alt="#" /> </div>
-          <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="full blog_colum">
+              <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-03.jpg" alt="#" /> </div>
+              <div class="post_time">
+                <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
+              </div>
+              <div class="blog_feature_head">
+                <h4>Why Your Computer Hates You</h4>
+              </div>
+              <div class="blog_feature_cont">
+                <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
+              </div>
+            </div>
           </div>
-          <div class="blog_feature_head">
-            <h4>Easy Tips To Computer Repair</h4>
+          <div class="col-md-4">
+            <div class="full blog_colum">
+              <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-04.jpg" alt="#" /> </div>
+              <div class="post_time">
+                <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
+              </div>
+              <div class="blog_feature_head">
+                <h4>Easy Tips To Computer Repair</h4>
+              </div>
+              <div class="blog_feature_cont">
+                <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
+              </div>
+            </div>
           </div>
-          <div class="blog_feature_cont">
-            <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="full blog_colum">
-          <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-06.jpg" alt="#" /> </div>
-          <div class="post_time">
-            <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
-          </div>
-          <div class="blog_feature_head">
-            <h4>Computer Maintenance 2018</h4>
-          </div>
-          <div class="blog_feature_cont">
-            <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
+          <div class="col-md-4">
+            <div class="full blog_colum">
+              <div class="blog_feature_img"> <img src="<?php echo base_url() ?>assets_F/images/it_service/post-06.jpg" alt="#" /> </div>
+              <div class="post_time">
+                <p><i class="fa fa-clock-o"></i> April 16, 2018 ( In Maintenance )</p>
+              </div>
+              <div class="blog_feature_head">
+                <h4>Computer Maintenance 2018</h4>
+              </div>
+              <div class="blog_feature_cont">
+                <p>Lorem ipsum dolor sit amet, consectetur quam justo, pretium adipiscing elit. Vestibulum quam justo, pretium eu tempus ut, ...</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
-</div>
 </div>
