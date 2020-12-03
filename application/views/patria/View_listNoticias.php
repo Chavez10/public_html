@@ -1,5 +1,5 @@
 <!-- section -->
-<div class="section padding_layout_1 service_list">
+<div class="section main_slider">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
