@@ -52,9 +52,6 @@
       </div>
     </div>
   </div>
-</div>
-<!-- section -->
-<div class="section padding_layout_1 blog_list">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 pull-right">
@@ -204,8 +201,5 @@
     </div>
   </div>
 </div>
-</div>  
 </div>
-
-<!-- end section -->
-
+</div>
