@@ -29,7 +29,7 @@ class Controller_temp extends CI_Controller {
 
     function listaNoticias() {
         $data['titulo'] = "Noticias";
-        $vista = "template_web/patria/ViewlistNoticias";
+        $vista = "patria/View_listNoticias";
         $this->cargar_plantilla_web($vista, $data);
     }
 }
