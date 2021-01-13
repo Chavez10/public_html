@@ -38,4 +38,10 @@ class Controller_temp extends CI_Controller {
         $vista = "patria/View_noticia";
         $this->cargar_plantilla_web($vista, $data);
     }
+
+    function editorial() {
+        $data['titulo'] = "Editorial";
+        $vista = "patria/editorial";
+        $this->cargar_plantilla_web($vista, $data);
+    }
 }

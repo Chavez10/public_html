@@ -30,7 +30,7 @@
 	<body id="default_theme" class="it_service">
 	<div>
 	<!-- loader -->
-	<div class="bg_load"><img class="loader_animation" src="<?php echo base_url() ?>assets_F/USAM.png" alt="#" /> </div>
+	<div class="bg_load"><img class="loader_animation" src="<?php echo base_url() ?>assets_F/papper.png" alt="#" /> </div>
 	<!-- end loader -->
 	<!-- header -->
 	<header id="default_header" class="header_style_1">
