@@ -5,7 +5,7 @@
             <div class="col-md-12">
                 <div class="full">
                     <div class="main_heading text_align_center">
-                        <h2>Our Pricing Plans</h2>
+                        <h2>Economia</h2>
                     </div>
                 </div>
             </div>
