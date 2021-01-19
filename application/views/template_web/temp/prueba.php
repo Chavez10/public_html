@@ -56,12 +56,13 @@
   <div class="section padding_layout_1">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="full">
-            <div class="main_heading text_align_center">
-              <h2>Edicion N° 65</h2>
-            </div>
-            <div class="blog_section">
+        <div class="col-md-2"></div>
+          <div class="col-md-8">
+            <div class="full">
+              <div class="main_heading text_align_center">
+                <h2>Edicion N° 65</h2>
+              </div>
+              <div class="blog_section">
                 <div class="blog_feature_img"> <img class="img-responsive" src="assets_F/images/it_service/post-06.jpg" alt="#"> </div>
                 <div class="blog_feature_cantant">
                   <p class="blog_head">Blogpost With Image</p>
@@ -201,6 +202,6 @@
             </div>
           </div>
         </div>
-          </div>
-        </div>
       </div>
+    </div>
+  </div>
