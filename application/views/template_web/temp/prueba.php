@@ -151,8 +151,8 @@
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="main_heading text_align_left">
+              </div>          
+              <div class="main_heading text_align_center">
                 <h2>Latest from Our Blog</h2>
               </div>
             </div>
