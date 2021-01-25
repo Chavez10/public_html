@@ -2557,7 +2557,7 @@ span.skill {
 }
 
 .price_table_active .price_no {
-	color: #039ee3;
+	color: #822f2f;
 }
 
 .price_table_active {
@@ -2745,7 +2745,7 @@ span.skill {
 .categary li:hover,
 .categary li:focus {
 	padding-left: 30px;
-	background: #039ee3;
+	background: #822f2f;
 }
 
 .categary li:hover a,
@@ -2896,7 +2896,7 @@ span.skill {
 
 .read_more:hover,
 .read_more:focus {
-	color: #039ee3;
+	color: #822f2f;
 }
 
 .shr {
@@ -4011,7 +4011,7 @@ footer ul.social_icons {
 }
 
 .product_detail .tab_bar_section ul.nav.nav-tabs li a.active {
-	background: #039ee3;
+	background: #822f2f;
 	color: #fff;
 }
 
@@ -4276,7 +4276,7 @@ footer ul.social_icons {
 	height: 45px;
 	line-height: 45px;
 	margin: 33px 0 0 30px;
-	background: #039ee3;
+	background: #822f2f;
 	transition: ease all 0.5s;
 	border: none;
 	color: #fff;
@@ -4284,7 +4284,7 @@ footer ul.social_icons {
 }
 
 .shopping-cart .button {
-	background: #039ee3;
+	background: #822f2f;
 	color: #fff;
 }
 
@@ -4321,7 +4321,7 @@ footer ul.social_icons {
 .tab-info.coupon-section p a:hover,
 .tab-info.login-section p a:focus,
 .tab-info.coupon-section p a:focus {
-	color: #039ee3;
+	color: #822f2f;
 }
 
 .bt_main {
@@ -4337,7 +4337,7 @@ footer ul.social_icons {
 	border: none;
 	padding: 0 35px;
 	cursor: pointer;
-	background: #039ee3;
+	background: #822f2f;
 }
 
 .btn-login .bt_main {
@@ -4526,7 +4526,7 @@ footer ul.social_icons {
 }
 
 .adress_cont i {
-	color: #039ee3;
+	color: #822f2f;
 }
 
 .contant_form p {
