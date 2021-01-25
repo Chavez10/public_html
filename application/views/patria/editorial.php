@@ -18,25 +18,6 @@
         </div>
     </div>
 </div>
-<!-- end inner page banner -->
-<!-- <div class="section padding_layout_1 service_list">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-9">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="full" style="margin-top: 15px;">
-                            <h2>Need file recovery</h2>
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
-                                quasi architecto beatae vitae dicta sunt explicabo.. </p>
-                            <p><a class="btn main_bt" href="#">Read More</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
 
 <div class="section padding_layout_1 blog_list">
     <div class="container">
