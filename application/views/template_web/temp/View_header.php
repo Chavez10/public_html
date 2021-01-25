@@ -107,7 +107,7 @@
 	}
 
 	.bg_load {
-		background-color: white !important;
+		color: white !important;
 	}
 </style>
 <script>
