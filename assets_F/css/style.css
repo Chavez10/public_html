@@ -2845,7 +2845,7 @@ span.skill {
 	padding: 30px 0;
 	float: left;
 	width: 100%;
-	border-top: solid #039ee3 8px;
+	border-top: solid #822f2f 8px;
 }
 
 .blog_head {
@@ -2865,7 +2865,7 @@ span.skill {
 .blog_feature_cantant li {
 	font-weight: 500;
 	font-size: 14px;
-	color: #039ee3;
+	color: #822f2f;
 	float: left;
 	margin-right: 15px;
 }
@@ -2876,7 +2876,7 @@ span.skill {
 
 .blog_feature_cantant li a:hover,
 .blog_feature_cantant li a:focus {
-	color: #039ee3;
+	color: #822f2f;
 }
 
 .blog_feature_cantant p {
