@@ -105,6 +105,10 @@
 	.header_bottom.fixed-top a {
 	color: white;
 	}
+
+	.bg_load {
+		background-color: white !important;
+	}
 </style>
 <script>
 	document.addEventListener("scroll", function () {
