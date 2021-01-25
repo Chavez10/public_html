@@ -41,7 +41,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 						<!-- logo start -->
-						<div class="logo"> <a href="it_home.html"><img src="<?php echo base_url() ?>assets_F/logo.png" alt="logo" /></a> </div>
+						<div class="logo"> <a href="<?php echo base_url() ?>Controller_temp/prueba"><img src="<?php echo base_url() ?>assets_F/logo.png" alt="logo" /></a> </div>
 						<!-- logo end -->
 					</div>
 					<div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
@@ -49,26 +49,26 @@
 						<div class="menu_side">
 							<div id="navbar_menu">
 								<ul class="first-ul">
-									<li><a href="it_about.html">Noticias USAM</a></li>
-									<li> <a class="active" href="it_home.html">Nacionales</a>
+									<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Noticias USAM</a></li>
+									<li> <a class="active" href="<?php echo base_url() ?>Controller_temp/listaNoticias">Nacionales</a>
 										<ul>
-											<li><a href="#">Politica</a></li>
-											<li><a href="#">Sucesos</a></li>
-											<li><a href="#">Economia</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Politica</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Sucesos</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Economia</a></li>
 										</ul>
 									</li>
-									<li><a href="it_about.html">Deportes</a></li>
-									<li> <a href="#">Revista</a>
+									<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Deportes</a></li>
+									<li> <a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Revista</a>
 										<ul>
-											<li><a href="#">Espectaculos</a></li>
-											<li><a href="#">Arte y Cultura</a></li>
-											<li><a href="#">Reportajes</a></li>
-											<li><a href="#">Academico</a></li>
-											<li><a href="#">Tecnologia</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Espectaculos</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Arte y Cultura</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Reportajes</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Academico</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Tecnologia</a></li>
 										</ul>
 									</li>
-									<li><a href="it_about.html">Editoria - Opiniones</a></li>
-									<li><a href="it_about.html">Ediciones</a></li>
+									<li><a href="<?php echo base_url() ?>Controller_temp/editorial">Editorial - Opiniones</a></li>
+									<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Ediciones</a></li>
 								</ul>
 								</div>
 								<div class="search_icon">

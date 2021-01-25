@@ -15,7 +15,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Data recovery</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Computer repair</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Network solutions</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Data recovery</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Computer repair</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Network solutions</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -75,7 +75,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Data recovery</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Computer repair</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
@@ -95,7 +95,7 @@
                     <div class="service_cont">
                         <h3 class="service_head">Network solutions</h3>
                         <p>Exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-                        <div class="bt_cont"> <a class="btn sqaure_bt" href="it_service_detail.html">View Service</a> </div>
+                        <div class="bt_cont"> <a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas</a> </div>
                     </div>
                 </div>
             </div>
