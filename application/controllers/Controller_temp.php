@@ -50,4 +50,11 @@ class Controller_temp extends CI_Controller {
         $vista = "patria/View_personas";
         $this->cargar_plantilla_web($vista, $data);
     }
+
+    function personasInd() {
+        $data['titulo'] = "Personas";
+        $vista = "patria/View_personasInd";
+        $this->cargar_plantilla_web($vista, $data);
+    }
+
 }
