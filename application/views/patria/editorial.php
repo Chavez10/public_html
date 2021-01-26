@@ -39,7 +39,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
@@ -68,7 +68,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
@@ -97,7 +97,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
@@ -126,7 +126,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
@@ -155,7 +155,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
@@ -184,7 +184,7 @@
                                 asperiores mollitia excepturi voluptatibus sequi nostrum ipsam veniam omnis nihil! A ea maiores corporis. Lorem ipsum dolor sit amet, consectetur adipisicing elit,
                                 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                             <div class="bottom_info">
-                                <div class="pull-left"><a class="btn sqaure_bt" href="it_blog_detail.html">Leer Mas<i class="fa fa-angle-right"></i></a></div>
+                                <div class="pull-left"><a class="btn sqaure_bt" href="<?php echo base_url() ?>Controller_temp/noticias">Leer Mas<i class="fa fa-angle-right"></i></a></div>
                                 <div class="pull-right">
                                     <div class="shr">Share: </div>
                                     <div class="social_icon">
