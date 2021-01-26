@@ -38,7 +38,7 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="assets_F/images/it_service/team-member-1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>Dean Michael</h4>
+            <h4><a href="<?php echo base_url() ?>Controller_temp/personasInd">Dean Michael</a></h4>
           </div>
           <div class="team_feature_social">
             <div class="social_icon">
@@ -57,7 +57,7 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="assets_F/images/it_service/team-member-2.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>Ruby Jake</h4>
+            <h4><a href="<?php echo base_url() ?>Controller_temp/personasInd">Ruby Jake</a></h4>
           </div>
           <div class="team_feature_social">
             <div class="social_icon">
@@ -76,7 +76,7 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="assets_F/images/it_service/team-member-3.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>David Hussay</h4>
+            <h4><a href="<?php echo base_url() ?>Controller_temp/personasInd">David Hussay</a></h4>
           </div>
           <div class="team_feature_social">
             <div class="social_icon">
@@ -95,7 +95,7 @@
         <div class="full team_blog_colum">
           <div class="it_team_img"> <img class="img-responsive" src="assets_F/images/it_service/team-member-1.jpg" alt="#"> </div>
           <div class="team_feature_head">
-            <h4>Dean Michael</h4>
+            <h4><a href="<?php echo base_url() ?>Controller_temp/personasInd">Dean Michael</a></h4>
           </div>
           <div class="team_feature_social">
             <div class="social_icon">

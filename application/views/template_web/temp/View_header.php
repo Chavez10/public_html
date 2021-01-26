@@ -65,6 +65,7 @@
 											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Reportajes</a></li>
 											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Academico</a></li>
 											<li><a href="<?php echo base_url() ?>Controller_temp/listaNoticias">Tecnologia</a></li>
+											<li><a href="<?php echo base_url() ?>Controller_temp/personas">Perfiles</a></li>
 										</ul>
 									</li>
 									<li><a href="<?php echo base_url() ?>Controller_temp/editorial">Editorial - Opiniones</a></li>
